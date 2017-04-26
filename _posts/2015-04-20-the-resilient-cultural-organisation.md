@@ -3,7 +3,10 @@ layout: default
 ---
 # {{ page.title }}
 
-The Resilient Cultural Organisation Paperback – 20 Apr 2015
+<div class="pull-right">![The Resilient Cultural Organisation Cover]{/img/TheResilientCulturalOrganisation.jpg}</div>
+
+The Resilient Cultural Organisation
+
 by Peter Latchford
 
 With ever decreasing funding, the word which abounds in the cultural sector is 'resilience'. But what does it mean to 'be resilient'? How can organisations become resilient? An expert in enterprise, Professor Peter Latchford has been working internationally with cultural organisations including museums, galleries, theatres, archives, libraries and heritage sites to enable them to achieve a state of resilience and succeed in challenging times. In The Resilient Cultural Organisation, Latchford reveals his tried and tested methodology and a range of tools to maximise success in cultural organisations. 

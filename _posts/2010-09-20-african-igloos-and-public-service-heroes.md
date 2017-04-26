@@ -3,7 +3,9 @@ layout: default
 ---
 # {{ page.title }}
 
-African Igloos: And Public Service Heroes Paperback – 20 Sep 2010
+![African Igloos Cover]{/img/AfricanIgloos.jpg}
+
+African Igloos: And Public Service Heroes Paperback
 
 by Peter Latchford 
 
