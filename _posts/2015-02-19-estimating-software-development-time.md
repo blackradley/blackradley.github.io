@@ -2,6 +2,7 @@
 layout: default
 ---
 # {{ page.title }}
+by Joe Collins
 
 "When can be launch?"  It is often the first question a manager or client asks.  Put another way, "How long will it take to write this software?"  While trying to answer this question for the [Insight](/insight) project, it got me to wondering, why does the question cause so much tension and so many problems in software development?  It is such a reasonable question.  You wouldn’t expect there to be a problem for a ship builder to give you a launch date or for a house builder to tell you when you can have the key to your house.  
 
