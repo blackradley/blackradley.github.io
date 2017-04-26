@@ -2,7 +2,8 @@
 layout: default
 title: Insight
 ---
-![Black Radley Logo](/img/Insight2Logo.png)
+![Insight Logo](/img/InsightLogo.jpg)
+![Insight 2 Logo](/img/Insight2Logo.jpg)
 
 Our on going program to understand museum commercial performance.
 

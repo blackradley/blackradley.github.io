@@ -6,3 +6,7 @@ layout: default
 By Joe Collins
 
 ![The Atkinson](/img/TheAtkinson.jpg)
+
+Visiting the Atkinson in Southport today.
+
+Affordance
