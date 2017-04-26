@@ -1,6 +1,6 @@
 ---
 layout: default
 ---
-# {{ page.title }}a
+# {{ page.title }}
 
 ![The Atkinson](/img/TheAtkinson.jpg)
