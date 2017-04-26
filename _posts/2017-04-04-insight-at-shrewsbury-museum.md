@@ -3,7 +3,7 @@ layout: default
 ---
 # {{ page.title }}
 
-Eat my shorts
+By Joe Collins
 
 * tst
 * te
