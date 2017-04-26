@@ -3,7 +3,7 @@ layout: default
 ---
 # {{ page.title }}
 
-<div class="pull-right">![The Resilient Cultural Organisation Cover]{/img/TheResilientCulturalOrganisation.jpg}</div>
+![The Resilient Cultural Organisation Cover](/img/TheResilientCulturalOrganisation.jpg)
 
 The Resilient Cultural Organisation
 
@@ -16,4 +16,4 @@ With ever decreasing funding, the word which abounds in the cultural sector is '
 "This book raises quite profound questions for the operational paradigm. Easy to follow and compelling." - Simon Cane, Director of Public and Cultural Engagement, UCL
 
 Available on Amazon at:
-https://www.amazon.co.uk/d/cka/Resilient-Cultural-Organisation-Peter-Latchford/0956623522
+[https://www.amazon.co.uk/d/cka/Resilient-Cultural-Organisation-Peter-Latchford/0956623522](https://www.amazon.co.uk/d/cka/Resilient-Cultural-Organisation-Peter-Latchford/0956623522)
