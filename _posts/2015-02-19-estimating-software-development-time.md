@@ -8,7 +8,7 @@ tags:
 
 by Joe Collins
 
-"When can be launch?"  It is often the first question a manager or client asks.  Put another way, "How long will it take to write this software?"  While trying to answer this question for the [Insight](/insight) project, it got me to wondering, why does the question cause so much tension and so many problems in software development?  It is such a reasonable question.  You wouldn’t expect there to be a problem for a ship builder to give you a launch date or for a house builder to tell you when you can have the key to your house.  
+"When can be launch?"  It is often the first question a manager or client asks.  Put another way, "How long will it take to write this software?"  While trying to answer this question for the [Insight](https://insight.blackradley.com) project, it got me to wondering, why does the question cause so much tension and so many problems in software development?  It is such a reasonable question.  You wouldn’t expect there to be a problem for a ship builder to give you a launch date or for a house builder to tell you when you can have the key to your house.  
 
 To explain software development to ourselves and our managers we often turn to analogies, typically construction and engineering analogies. Whilst an analogy can be useful since it makes it easy to get an idea across quickly, all analogies are inherently flawed simply because they are analogies and not descriptions of real thing.  Since much of software development is a virtual we use a lot of analogies.  The preponderance of engineering analogies in software development is a problem because it gives the appearance that software development is like building a boat or a house.  
 

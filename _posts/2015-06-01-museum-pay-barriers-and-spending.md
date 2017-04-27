@@ -9,7 +9,7 @@ tags:
 
 By Joe Collins
 
-The preliminary analysis of our [Insight](/insight) data looked at what predicts retail spend per visitor in a museum.  Where the shop is behind a pay barrier (visitors have to pay to enter before they can visit the shop) retail spend per visitor is higher.  This might be considered a little surprising.  One might have thought that visitors who have paid to enter would be reluctant to spend more money having just paid to enter.
+The preliminary analysis of our [Insight](https://insight.blackradley.com) data looked at what predicts retail spend per visitor in a museum.  Where the shop is behind a pay barrier (visitors have to pay to enter before they can visit the shop) retail spend per visitor is higher.  This might be considered a little surprising.  One might have thought that visitors who have paid to enter would be reluctant to spend more money having just paid to enter.
 
 It is hard to know why this might be the case.  It could be that the pay barrier is simply acting as a filter for visitors who are more willing to spend money.  Another possibility is that having paid to enter, visitors are placing more value on the whole experience including the shop.  As far back as 1966 Freedman and Fraser demonstrated that people tend to behave in ways which are consistent with previous behavior.  Freedman and Fraser found that householders were much more willing to have a sign on their front lawn if they previously agreed to have a sign in their front window.
 

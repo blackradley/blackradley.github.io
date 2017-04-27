@@ -8,7 +8,7 @@ tags:
 
 By Joe Collins
 
-Our [Insight](/insight) web application needs to use SSL (Secure Sockets Layer) because the data we are gathering is valuable and needs to be protected.  But also, Google deliberately favors websites that use SSL as part of company policy to make the internet safer, so using SSL will improve the web applications search ranking.
+Our [Insight](https://insight.blackradley.com) web application needs to use SSL (Secure Sockets Layer) because the data we are gathering is valuable and needs to be protected.  But also, Google deliberately favors websites that use SSL as part of company policy to make the internet safer, so using SSL will improve the web applications search ranking.
 
 Traditionally setting up SSL certificates has always been a rather irksome task.  There are a number of arcane steps that need to be taken to acquire and set up an SSL certificate on the web server.  For this reason the web application developers had been avoiding the task and pushing it back to nearer the go live date.
 

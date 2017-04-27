@@ -8,7 +8,7 @@ tags:
 
 By Joe Collins
 
-At the first [Insight](/insight) project meeting it was clear we needed a collaborative project management system.  The Insight Team has adopted [Planio](https://plan.io/) which is a hosted version of the open source project, [Redmine](http://www.redmine.org/). 
+At the first [Insight](https://insight.blackradley.com) project meeting it was clear we needed a collaborative project management system.  The Insight Team has adopted [Planio](https://plan.io/) which is a hosted version of the open source project, [Redmine](http://www.redmine.org/). 
 
 Within the first couple of weeks of the project it was clear that we needed better systems for managing the project.  The usual combination of Microsoft Excel and Project is fine for hierarchical and single organization projects, but inappropriate for a collaborative and multi organization project.  We needed something which the entire team could use and which allowed us to audit changes and revisions to the project schedule.  
 
