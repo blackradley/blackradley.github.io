@@ -1,8 +1,7 @@
 ---
 layout: default
-published: false
 tags:
-- museum
+- Museum
 - Collins
 ---
 # {{ page.title }}

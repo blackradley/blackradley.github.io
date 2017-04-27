@@ -4,7 +4,7 @@ published: false
 tags:
 - IT
 - Insight
-- museum
+- Museums
 - Microsoft
 - Collins
 ---

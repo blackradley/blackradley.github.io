@@ -1,9 +1,6 @@
 ---
 layout: default
 title: About Us
-- Wilkinson
-- Latchford
-- Collins
 ---
 
 # About Black Radley

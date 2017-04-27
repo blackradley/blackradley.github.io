@@ -1,7 +1,7 @@
 ---
 layout: default
 tags:
-- book
+- Books
 - Latchford
 ---
 # {{ page.title }}
