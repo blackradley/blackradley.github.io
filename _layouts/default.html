@@ -71,24 +71,6 @@
         </div>
         <div class="col-lg-4 col-md-5 col-sm-6 hidden-xs">
           <div class='list-group'>
-            <h3>News</h3>
-            {% assign tags_list = site.tags %} 
-            {% if tags_list.first[0] == null %} 
-              {% for tag in tags_list %}
-                <a href="/tags#{{ tag }}-ref" class='list-group-item'>
-                  {{ tag }} <span class='badge'>{{ site.tags[tag].size }}</span>
-                </a> 
-              {% endfor %} 
-            {% else %} 
-              {% for tag in tags_list %}
-            <a href="/{{page.url}}#{{ tag[0] }}-ref" class='list-group-item'>
-                {{ tag[0] }} <span class='badge'>{{ tag[1].size }}</span>
-              </a> 
-              {% endfor %} 
-            {% endif %} 
-            {% assign tags_list = nil %}
-          </div>
-          <div>
             {% for tag in site.tags %}
             <h4 class='tag-header' id="{{ tag[0] }}-ref">{{ tag[0] }}</h4>
             <ul>
