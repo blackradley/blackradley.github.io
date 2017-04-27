@@ -69,7 +69,7 @@
         <div class="col-lg-8 col-md-7 col-sm-6">
           {{ content }}
         </div>
-        <div class="col-lg-4 col-md-5 hidden-sm hidden-xs">
+        <div class="col-lg-4 col-md-5 col-sm-6 hidden-xs">
           <div class='list-group'>
             <h3>News</h3>
             {% assign tags_list = site.tags %} 
@@ -81,12 +81,35 @@
               {% endfor %} 
             {% else %} 
               {% for tag in tags_list %}
-            <a href="/tags#{{ tag[0] }}-ref" class='list-group-item'>
+            <a href="/{{page.url}}#{{ tag[0] }}-ref" class='list-group-item'>
                 {{ tag[0] }} <span class='badge'>{{ tag[1].size }}</span>
               </a> 
               {% endfor %} 
             {% endif %} 
             {% assign tags_list = nil %}
+          </div>
+          <div>
+            {% for tag in site.tags %}
+            <h4 class='tag-header' id="{{ tag[0] }}-ref">{{ tag[0] }}</h4>
+            <ul>
+              {% assign pages_list = tag[1] %}
+
+              {% for node in pages_list %}
+                {% if node.title != null %}
+                  {% if group == null or group == node.group %}
+                    {% if page.url == node.url %}
+                    <li class="active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
+                    {% else %}
+                    <li><a href="{{node.url}}">{{node.title}}</a></li>
+                    {% endif %}
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
+
+              {% assign pages_list = nil %}
+              {% assign group = nil %}
+            </ul>
+          {% endfor %}
           </div>
         </div>
       </div>
