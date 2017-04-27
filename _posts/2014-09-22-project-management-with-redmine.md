@@ -17,3 +17,5 @@ The Technology Partner uses a Kanban for monitoring projects and task progress b
 Initially we hosted our own version of Redmine.  It was easy to set up but support and backup fell to the Technology partner and with a tight project schedule we didn’t want to give the Technology partner any extra tasks.  Fortunately for a mere €9 per month [Planio](https://plan.io/) provide a hosted and supported version of Redmine.  Planio is a German company based in Berlin, so the data is covered by tough German data protection laws and backed up with typical German efficiency.  If ever we want to go back to hosting our own version of Redmine we can export the data from them.
 
 Using Planio gives each of the project members a clear picture of their own tasks and schedule.  It also allows the team to see how each other is progressing and has already allowed us to identify and head off, bottle necks and collisions.
+
+![Insight Logo](/img/InsightLogo.jpg)
