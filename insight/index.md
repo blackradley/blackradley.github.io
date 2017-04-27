@@ -1,6 +1,10 @@
 ---
 layout: default
 title: Insight
+tags:
+- museum
+- Insight
+- Collins
 ---
 ![Insight Logo](/img/InsightLogo.jpg)
 

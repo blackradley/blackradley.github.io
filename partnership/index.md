@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Partnership & Network Performance
+tags:
+- Wilkinson
+- Latchford
 ---
 # Partnership & Network Performance
 

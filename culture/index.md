@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Cultural Enterprise
+tags:
+- Wilkinson
+- Latchford
 ---
 # Cultural Enterprise
 
