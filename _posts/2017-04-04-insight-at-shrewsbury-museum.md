@@ -1,5 +1,12 @@
 ---
 layout: default
+published: false
+tags:
+- IT
+- Insight
+- museum
+- Microsoft
+- Collins
 ---
 # {{ page.title }}
 

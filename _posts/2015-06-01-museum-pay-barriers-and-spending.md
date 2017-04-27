@@ -1,5 +1,9 @@
 ---
 layout: default
+tags:
+- museum
+- Insight
+- Collins
 ---
 # {{ page.title }}
 

@@ -1,5 +1,8 @@
 ---
 layout: default
+tags:
+- IT
+- Collins
 ---
 # {{ page.title }}
 
