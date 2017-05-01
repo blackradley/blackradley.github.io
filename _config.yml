@@ -7,7 +7,7 @@ kramdown:
   input: GFM
   hard_wrap: false
 
-url: https://blackradley.github.io
+url: https://www.blackradley.com
 
 # Permalinks
 permalink:        pretty
