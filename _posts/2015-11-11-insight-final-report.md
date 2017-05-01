@@ -7,7 +7,7 @@ tags:
 ---
 # {{ page.title }}
 
-Full report available at [/assets/Insight-Final-Report-2015-11-11.pdf](/assets/Insight-Final-Report-2015-11-11.pdf)
+Full report available at [{{site.url}}/assets/Insight-Final-Report-2015-11-11.pdf](/assets/Insight-Final-Report-2015-11-11.pdf)
 
 ## Background
 
@@ -29,7 +29,7 @@ In order to do this, the project partners needed to understand:
 * The best way of categorising museums based on commonality of offer (i.e. 'museum', 'castle', 'historic house', etc), that would also allow for representation of the differences  between individual sites as related to visitor spend (i.e. presence of shop, frequency of events, etc);
 * The most likely 'internal' factors that have potential to influence visitor spend (i.e. marketing activity, scale of the site and it's component parts);
 * The most likely 'external' factors that have potential to influence visitor spend (i.e. local demographic profile etc.);
-*  The most appropriate means by which to collect this information;
+* The most appropriate means by which to collect this information;
 * The most appropriate means by which to report back the findings.
 
 After a process of rigorous research and in consultation with a steering committee of museum sector representatives, an online platform was designed and built enabling individual museums to:
