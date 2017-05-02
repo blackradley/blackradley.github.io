@@ -2,8 +2,7 @@
 layout: default
 title: About Us
 ---
-
-old
+new
 
 # About Black Radley
 
