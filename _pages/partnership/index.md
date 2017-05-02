@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Partnership & Network Performance
+permalink: "/partnership/"
 ---
 # Partnership & Network Performance
 

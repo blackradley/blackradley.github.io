@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cultural Enterprise
+permalink: "/culture/"
 ---
 # Cultural Enterprise
 

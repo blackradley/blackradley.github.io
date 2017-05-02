@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Public Service
+permalink: "/service/"
 ---
 # Public Service Enterprise
 
