@@ -1,13 +1,15 @@
-# Dependencies
+# Conversion
 markdown:         kramdown
 highlighter:      rouge
 
+# Markdown Processor
 kramdown:
   auto_ids: true
   input: GFM
   hard_wrap: false
 
 url: https://www.blackradley.com
+timezone: GMT
 
 # Permalinks
 permalink:        pretty
@@ -15,6 +17,8 @@ permalink:        pretty
 # Social
 title: Black Radley 
 description: The Enterprise People
+
+include: ["_pages"]
 
 gems:
    - jekyll-paginate

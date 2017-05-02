@@ -1,8 +1,10 @@
 ---
 layout: default
 title: About Us
+permalink: "/about/"
 ---
-new
+
+old
 
 # About Black Radley
 
