@@ -9,6 +9,7 @@ tags:
 # {{ page.title }}
 
 By Joe Collins
+
 The Intelligent Exhibit is an experiment to see if exhibits can interact with visitors by recognising their faces and ages.  All for under 100 quid.
 
 In April a team from Black Radley and Microsoft created an [intelligent museum exhibit]({% post_url 2017-04-12-towards-intelligent-museum-exhibits %}).  It was just a proof of concept to see if it could be done.
