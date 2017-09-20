@@ -4,7 +4,7 @@ title: Home
 ---
 ![Black Radley Logo](/img/BRLogo.jpg)
 
-<div class="carousel fade-carousel slide" data-ride="carousel" data-interval="3000" id="bs-carousel">
+<div class="carousel fade-carousel slide" data-ride="carousel" data-interval="5000" id="bs-carousel">
   <!-- Overlay -->
   <div class="overlay"></div>
 
