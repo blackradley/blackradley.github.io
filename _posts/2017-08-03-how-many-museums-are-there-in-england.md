@@ -1,7 +1,6 @@
 ---
 layout: default
 tags:
-- IT
 - Museums
 - Collins
 ---
