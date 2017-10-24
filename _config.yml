@@ -20,6 +20,6 @@ description: The Enterprise People
 
 include: ["_pages"]
 
-gems:
+plugins:
    - jekyll-paginate
    - jekyll-sitemap

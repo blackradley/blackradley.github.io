@@ -2,7 +2,6 @@
 layout: default
 tags:
 - Museums
-- Insight
 - Collins
 ---
 # {{ page.title }}
