@@ -12,10 +12,10 @@ Lillehammer Art Museum has some beautiful and relaxing galleries with a combinat
 
 * a town centre location
 * parking available immediately outside
-* the cafe and shop are visible from outside (there is outside seating)
+* the café and shop are visible from outside (there is outside seating)
 * there are no steps at the entrance
-* the cafe and shop are immediately available as you enter
+* the café and shop are immediately available as you enter
 
-![Lillehammer Art Museum Cafe](/img/LillehammerArtMuseumCafe.jpg)
+![Lillehammer Art Museum Café](/img/LillehammerArtMuseumCafe.jpg)
 
-Entrance tickets are about £10 at current exchange rates.  Tea and cake in the cafe costs about £6.  This seems a bit steep from a British point of view but is consistent with local commodity prices where a litre of milk costs about £2.
+Entrance tickets are about £10 at current exchange rates.  Tea and cake in the café costs about £6.  This seems a bit steep from a British point of view but is consistent with local commodity prices where a litre of milk costs about £2.
