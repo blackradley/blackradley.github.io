@@ -1,7 +1,6 @@
 ---
 layout: default
 tags:
-- Books
 - Collins
 ---
 # {{ page.title }}

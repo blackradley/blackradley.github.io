@@ -78,8 +78,8 @@
             <h4 class='tag-header' id="{{ tag[0] }}-ref">{{ tag[0] }}</h4>
             <ul>
               {% assign pages_list = tag[1] %}
-
-              {% for node in pages_list %}
+              {% for i in (0..4) %}
+              {% assign node = pages_list[i] %}
                 {% if node.title != null %}
                   {% if group == null or group == node.group %}
                     {% if page.url == node.url %}
@@ -90,7 +90,6 @@
                   {% endif %}
                 {% endif %}
               {% endfor %}
-
               {% assign pages_list = nil %}
               {% assign group = nil %}
             </ul>
