@@ -6,9 +6,9 @@ tags:
 ---
 # {{ page.title }}
 
-The Wilson in Cheltenham will be offering two in-house exhibitions starting 11 November.  The galleries are currently in preparation.
-
 ![The Wilson Gallery Preparation](/img/TheWilsonPreparation.jpg)
+
+The Wilson in Cheltenham will be offering two in-house exhibitions starting 11 November.  The galleries are currently in preparation.
 
 ![The Wilson Gallery Sign](/img/TheWilsonSign.jpg)
 
