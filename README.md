@@ -2,6 +2,8 @@
 
 ## To set up
 
+* Delete .c9 and README.md
+* git clone https://github.com/blackradley/blackradley.github.io.git ./ 
 * gem install jekyll bundler
 * bundle install
 
