@@ -5,7 +5,7 @@ tags:
 - Museums
 - Latchford
 ---
-# {{ page.title }}
+# What is a Civic Museum?
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
